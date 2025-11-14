@@ -1,4 +1,4 @@
-// Create one company American 1200 with add 900 and  result return.
+// Create one companyUnited States American  1200 with add 900 and  result return.
 
 fn main() {
 
