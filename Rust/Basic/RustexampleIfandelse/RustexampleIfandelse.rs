@@ -9,7 +9,7 @@ fn main() {
     if name=="NameExample" {
 
     //Print
-    println!("True name!")
+    println!("True name!");
 
     }else if name!="Name"{
         //Print
@@ -18,7 +18,7 @@ fn main() {
 
     else {
         //Print
-        println!("Erro code!")
+        println!("Erro code!");
     }
 
 }
